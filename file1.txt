@@ -1,2 +1,6 @@
 Hello file1
+<<<<<<< HEAD
 feature3 add
+=======
+Fix1
+>>>>>>> a65592e... added Fix1
